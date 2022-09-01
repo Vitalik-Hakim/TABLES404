@@ -1,0 +1,5 @@
+
+
+
+FILE_NAME = outputnew0.svg
+Sample URL =  https://raw.githubusercontent.com/vitalik-hakim/vitalik-hakim/main/{FILE_NAME}
